@@ -1,0 +1,4 @@
+# Cloudflare Pages SPA 路由重定向
+# 所有非静态资源请求都返回 index.html，由 React Router 处理路由
+
+/*  /index.html  200
